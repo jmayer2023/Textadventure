@@ -8,5 +8,5 @@ write a code that deals with python basics
 - import data
 - creating objects
 
-# Time spent
+# Worktime
 around 24 hours
